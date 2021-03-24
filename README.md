@@ -8,20 +8,20 @@
 
 
 ### 点击下面链接，即可下载APP
-[wp music](http://iecoxe.top:90/wp_music_v1.1.apk)
+[wp music](https://github.com/GitHub-ZC/wp_music_mobile/releases/download/v1.3/wp_music_v1.3.apk)
 
 
 ### 话不多说，先给大家来一波效果图
 
 ![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084319.jpg)
 
-![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084326.jpg)
+<!-- ![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084326.jpg) -->
 
 <!-- ![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084341.jpg) -->
 
 <!-- ![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084346.jpg) -->
 
-![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084351.jpg)
+<!-- ![](https://iecoxe.gitee.io/music-app/wechat/Screenshot_20210307_084351.jpg) -->
 
 ### v1.3: 新增酷我无损音质下载，歌曲默认音质提升为320k,修复单曲循环bug
 
