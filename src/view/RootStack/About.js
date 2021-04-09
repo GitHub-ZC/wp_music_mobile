@@ -34,7 +34,7 @@ class About extends Component {
             }
         });
 
-        if (result.data.version === 'v1.3') {
+        if (result.data.version === 'v1.31') {
             Alert.alert(
                 `当前为最新版，无需更新`,
                 result.data.message.join('\n')
@@ -90,7 +90,7 @@ class About extends Component {
                             onError={({ nativeEvent: { error } }) => ToastAndroid.show(`图片加载错误`, ToastAndroid.SHORT)}
                         />
                         <Text>wp music</Text>
-                        <Text>v1.3</Text>
+                        <Text>v1.31</Text>
                     </View>
                     <TouchableOpacity onPress={this.version} style={{ backgroundColor: '#FFFFFF', height: 50, alignItems: 'center', flexDirection: 'row', justifyContent: 'space-between' }}>
                         <Text style={{ marginLeft: 20, fontSize: 16 }}>

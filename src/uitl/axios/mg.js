@@ -15,5 +15,10 @@ export default async (cid, br='320') => {
             br
         }
     })).data;
+    
+    if (!result.data) {
+        return '';
+    }
+
     return result.data.playUrl ? `http:${result.data.playUrl}` : '';
 }

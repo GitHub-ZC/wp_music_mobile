@@ -279,6 +279,14 @@ class Search extends Component {
                     return;
                 }
 
+                if (!result.data.result) {
+                    this.setState({
+                        showFoot: 1,
+                        isRefreshing: false
+                    });
+                    return;
+                }
+
                 if (result.data.result.songCount === 0) {
                     this.setState({
                         showFoot: 1,

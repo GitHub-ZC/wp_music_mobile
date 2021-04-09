@@ -152,7 +152,7 @@ class Me extends Component {
             );
         }
 
-        if (result.data.version !== 'v1.3') {
+        if (result.data.version !== 'v1.31') {
             // 强制更新
             if (result.data.ForcedToUpgrade) {
                 Alert.alert('', '强制更新', []);
